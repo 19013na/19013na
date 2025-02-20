@@ -2,7 +2,7 @@
 
 ### 📚 Main Language  
 <p align="center">
-<img src="https://img.shields.io/badge/Java-008FC7?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ECD53F?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFF33F?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -16,7 +16,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/IntelliJ-33E1CA?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCODE-33A7E1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-ECD53F?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MySQL-1E4872?style=for-the-badge&logo=mysql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
