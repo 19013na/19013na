@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm hyo young
+
+# ✨ Main Language  
+<p align="center">
+<img src="https://img.shields.io/badge/Java-008FC7?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&logo=python&logoColor=white"/>
+
+# 💻 Tools
+<p align="center">
+
 
 <!--
 **19013na/19013na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
