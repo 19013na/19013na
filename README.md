@@ -2,7 +2,7 @@
 
 ### 📚 Main Language  
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ECD53F?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ECD53F?style=for-the-badge&logo=java&logoColor=white&label=GitHub Hits"/>
 <img src="https://img.shields.io/badge/Python-FFF33F?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -21,9 +21,7 @@
 </p>
 
 ## :octocat: Github Stats
-<p align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19013na)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19013na)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 https://github.com/markdown-templates/
