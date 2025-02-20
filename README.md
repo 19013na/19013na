@@ -1,24 +1,32 @@
-## Good to see you 👋 I'm hyo young
+## Good to see you 👋 
+### I'm Hyoyoung.
+#### My E-mail is 
+<img src="https://img.shields.io/badge/yondu19013@gmail.com-#EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br/><br/>
 
-### 📚 Main Language  
+## ✨ Tech Stack
+### Main Language  
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ECD53F?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFF33F?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+<br/>
 
-### ✨ Framework
+### Framework
 <p align="left">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-4A154B?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
+<br/>
 
-### 💻 Tools&ETC
+### ETC
 <p align="left">
 <img src="https://img.shields.io/badge/IntelliJ-33E1CA?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCODE-33A7E1?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-1E4872?style=for-the-badge&logo=mysql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
+<br/>
 
 ## :octocat: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19013na)](https://github.com/anuraghazra/github-readme-stats)
