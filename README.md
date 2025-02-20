@@ -1,8 +1,6 @@
 ## Good to see you 👋 
 ### I'm Hyoyoung.
-#### My E-mail is 
-<img src="https://img.shields.io/badge/yondu19013@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-<br/><br/>
+</br>
 
 ## ✨ Tech Stack
 ### Main Language  
@@ -30,6 +28,9 @@
 
 ## :octocat: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19013na)](https://github.com/anuraghazra/github-readme-stats)
+
+#### E-mail 
+<img src="https://img.shields.io/badge/yondu19013@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 <!--
 https://github.com/markdown-templates/
