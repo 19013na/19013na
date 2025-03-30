@@ -31,9 +31,8 @@
 
 #### E-mail 
 <img src="https://img.shields.io/badge/yondu19013@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></br>
-<div align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/19013na&count_bg=%23FFC107&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
-</div></br>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/19013na&count_bg=%23FFC107&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
+</br>
 <!--
 https://github.com/markdown-templates/
 https://simpleicons.org/
