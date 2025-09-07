@@ -1,6 +1,7 @@
 ## Good to see you 👋 
 ### I'm Hyoyoung
 </br>
+<img src="https://img.shields.io/badge/yondu19013@gmail.com-232F3E?style=for-the-badge&logo=gmail&logoColor=white"/></br>
 
 ## Tech Stack
 <p align="left">
@@ -23,24 +24,3 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </p>
 <br/>
-
-## :octocat: Github Stats
-<div align="center">
-    <a href="#">
-      <img max-width="45%" height="120px" src="https://github-readme-stats.vercel.app/api?username=19013na&count_private=true&show_icons=true&theme=panda&hide=contribs&include_all_commits=ture&border_radius=0&hide_border=true"" />
-    </a>
-    <a href="#">
-      <img max-width="45%" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19013na&theme=panda&border_radius=0&hide_border=true&layout=compact&exclude_repo=youtube-clone-react"/>
-</a>
-</div>
-
-</br>
-</br>
-
-#### E-mail 
-<img src="https://img.shields.io/badge/yondu19013@gmail.com-232F3E?style=for-the-badge&logo=gmail&logoColor=white"/></br>
-<div align="left">
-    <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=19013na&style=for-the-badge&color=232F3E&label=++HI+THERE+%F0%9F%91%8B++" alt="view counter said \"hello\""/>
-    </a>
-  </div>
