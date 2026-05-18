@@ -1,7 +1,7 @@
 ## Good to see you 👋 
 ### I'm Hyoyoung
 </br>
-<img src="https://img.shields.io/badge/yondu19013@gmail.com-232F3E?style=for-the-badge&logo=gmail&logoColor=white"/></br>
+<img src="https://img.shields.io/badge/hyoyoung0park@gmail.com-232F3E?style=for-the-badge&logo=gmail&logoColor=white"/></br>
 
 ## Tech Stack
 <p align="left">
